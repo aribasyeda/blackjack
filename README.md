@@ -18,7 +18,7 @@
 * After the game ends, ask the user if they'd like to play again. Clear the consolefor a fresh start.
 
 ### Programming Flow Chart:
-![flow chart](URL)
+![flow chart](https://github.com/aribasyeda/blackjack/blob/main/blackjack%20flowchart%20for%20the%20program.JPG)
 
 ### Authors:
 Ariba Syeda
