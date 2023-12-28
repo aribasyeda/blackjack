@@ -19,6 +19,3 @@
 
 ### Programming Flow Chart:
 ![flow chart](https://github.com/aribasyeda/blackjack/blob/main/blackjack%20flowchart%20for%20the%20program.JPG)
-
-### Authors:
-Ariba Syeda
